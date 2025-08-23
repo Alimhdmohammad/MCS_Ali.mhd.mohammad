@@ -11,3 +11,16 @@ https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-pric
 2. معالجة البيانات
 3. تحليل السمات ومعالجتها بما يناسب المسألة
 4. تطبيق نماذج تعلم آلي متعددة ومقارنتها
+
+   file Ali_mohamad_master_v1 (1).ipynb
+هوا كود بايثون منفذ على google colab  لتدريب 5 نماذج 
+
+Linear Regression	
+Random Forest	
+SVR	
+XGBoost	
+Neural Network	
+
+
+
+
